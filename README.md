@@ -1,4 +1,4 @@
-##  Customer Bookings Prediction
+#  Customer Bookings Prediction
 
 * Scraped and analysed customer review data using Python to uncover key insights.
 * Developed a predictive machine learning model with Python's scikit-learn to understand factors influencing buying behavior.
