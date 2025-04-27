@@ -1,7 +1,7 @@
 #  Customer Bookings Prediction
 
 * Scraped and analysed customer review data using Python to uncover key insights.
-* Developed a predictive machine learning model with Python's scikit-learn to understand factors influencing buying behavior.
+* Developed a random forest model with Python's scikit-learn to understand factors influencing buying behavior.
 
 ## Task 1: Sentiment Analysis: Customer Review Data
 
